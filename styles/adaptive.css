@@ -38,10 +38,10 @@
     }
 
     .header-container {
-        padding: 0;
+        padding: 20px 20px;
     }
 
-    .nav-list {
+    .header-container button {
         display: none;
     }
 
